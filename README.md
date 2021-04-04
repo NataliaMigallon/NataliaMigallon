@@ -1,8 +1,8 @@
 # ¡Hola! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 Soy Natalia Migallón, `programadora junior front-end` e `historiadora del arte`, especializada en tasar antigüedades y obras de arte. También he tocado otros palos, como el `diseño gráfico`. Pero lo que realmente concentra toda mi actividad actualmente es el desarrollo web. 
-Entre 2020 y 2021 he cursado un bootcamp en [Adalab](https://adalab.es/), en donde he aprendido a programar páginas web en un tiempo record, siendo una de las experiencias más enriquecedoras e intensas de mi vida. 
-Actualmente sigo formándome por mi cuenta y buscando mi primera experiencia laboral en el mundo IT. Si tienes interés en saber qué he hecho hasta ahora y en qué estoy embarcada, date una vuelta por mis repositorios.
+Entre 2020 y 2021 he cursado un bootcamp en [Adalab](https://adalab.es/), en donde he aprendido a programar páginas web, siendo una de las experiencias más enriquecedoras e intensas de mi vida. 
+Actualmente sigo formándome de manera autónoma y buscando adquirir experiencia en el mundo IT. Si tienes interés en saber qué he hecho hasta ahora y en qué estoy embarcada, date una vuelta por mis repositorios.
 
 ### CONTACTO
 

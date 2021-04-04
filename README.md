@@ -6,7 +6,7 @@ Actualmente sigo formándome por mi cuenta y buscando mi primera experiencia lab
 
 ### CONTACTO
 
-[![Linkedin Badge](https://img.shields.io/badge/-NataliaMigallon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliamigallon/) [![Mail Badge](https://img.shields.io/badge/-natmigallon@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:natmigallon@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-NataliaMigallon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliamigallon/) [![Mail Badge](https://img.shields.io/badge/-natmigallon@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:natmigallon@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Natalia_Migallon-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/natalia.m.fernandez.39/)
 
 ### STACK TECNOLÓGICO
 1. `Maquetación`: HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap.

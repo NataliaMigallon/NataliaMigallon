@@ -25,5 +25,3 @@ Actualmente sigo formándome de manera autónoma y buscando adquirir experiencia
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaMigallon&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Natalia Migallon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaMigallon&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
